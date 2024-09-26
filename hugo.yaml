@@ -1,0 +1,164 @@
+baseURL: "https://sendyka.dev/"
+title: Artur Sendyka
+copyright: "© 2024 [Artur Sendyka](https://sendyka.dev)"
+paginate: 5
+theme: [PaperMod]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+
+    params:
+      languageAltTitle: English
+      profileMode:
+        enabled: true
+        title: Artur Sendyka
+        imageUrl: "https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&v=beta&t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k"
+        imageTitle: Profile image
+        # imageWidth: 120
+        # imageHeight: 120
+        subtitle: ""
+        buttons:
+          - name: About me
+            url: about
+          - name: Resume
+            url: files/ResumeAS2023.pdf
+          - name: Portfolio
+            url: portfolio
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Artur Sendyka"
+  author: Artur Sendyka
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: false
+  ShowPageNums: false
+  ShowToc: true
+  comments: false
+  images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: Artur Sendyka
+    imageUrl: "#"
+    imageTitle: Profile image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+          - name: Blog
+            url: posts
+          - name: Resume
+            url: files/ResumeAS2023.pdf
+          - name: Portfolio
+            url: portfolio
+          - name: Contact
+            url: contact
+
+#  homeInfoParams:
+#    Title: "Test"
+#    Content: >
+#      👋 This is a test
+
+  socialIcons:
+    - name: LinkedIn
+      title: View my LinkedIn profile
+      url: "https://www.linkedin.com/in/asendyka"
+    - name: Instagram
+      title: Catch me on Instagram
+      url: "https://www.instagram.com/asterixix/"
+    - name: Telegram
+      title: Chat with me on Telegram
+      url: "https://t.me/asterixix"
+
+  # label:
+  # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
+  # text: "Home"
+  # icon: icon.png
+  # iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+# privacy:
+#   vimeo:
+#     disabled: false
+#     simple: true
+
+#   twitter:
+#     disabled: false
+#     enableDNT: true
+#     simple: true
+
+#   instagram:
+#     disabled: false
+#     simple: true
+
+#   youtube:
+#     disabled: false
+#     privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
