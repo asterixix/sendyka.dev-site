@@ -1,11 +1,8 @@
 ![Artur Sendyka image](https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&v=beta&t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k)
 
-# About me
+👋 **Hi there!** I am a creative individual, full of passion and committed to my work. I've been in the IT industry for 4 years, starting my journey as an IT Support Intern and later working as a Freelance Website Developer. My current skill set is mainly focused on IT Support and Management in small to medium-sized organizations. I have a deep passion for technology, non-governmental organizations, and contemporary art. In my leisure time, I enjoy playing video games, participating in social/probono activities, exploring different cities, running, and practicing yoga.
 
-<aside>
-👋 Hi there! I am a creative individual, full of passion and committed to my work. I've been in the IT industry for 4 years, starting my journey as an IT Support Intern and later working as a Freelance Website Developer. My current skill set is mainly focused on IT Support and Management in small to medium-sized organizations. I have a deep passion for technology, non-governmental organizations, and contemporary art. In my leisure time, I enjoy playing video games, participating in social/probono activities, exploring different cities, running, and practicing yoga.
-
-</aside>
+### [Resume](/files/ResumeAS2023.pdf)
 
 ### **Contact**
 
@@ -19,7 +16,7 @@
 
 ### Configuration Analyst I
 
-***AON (formally: AON Sp. z o.o.)**, Krakow, Poland – (January 2024 – Present)*
+***AON (formally: AON Sp. z o.o.)**, Krakow, Poland – (January 2024 – June 2024)*
 
 - Configuring the flexible benefit platforms in line with client expectations.
 - Resolving issues and risks to ensure that the platform is working correctly.
@@ -69,7 +66,7 @@
 
 # **🤝 Pro-bono Jobs and Activities**
 
-## **Rainbow Tarnów Association**
+### **Rainbow Tarnów Association**
 
 - Board member (November 2021 - May 2024), Council member (since May 2024)
 - **Tasks:**
@@ -79,7 +76,7 @@
     - Co-managing social media and communication with the media
     - Co-organizing work and managing the Tarnów Equality Center project
 
-## **Academy of Humanities and Economics in Łódź**
+### **Academy of Humanities and Economics in Łódź**
 
 - Student Council Chairperson (from November 2022 to November 2023)
 - **Tasks:**
@@ -88,14 +85,14 @@
     - Conducting dialogue between students and university authorities regarding administrative and staffing changes
     - Participation in meetings of the Polish Accreditation Committee and the Program Council for the Cultural Studies program
 
-## **Tech NGO Foundation**
+### **Tech NGO Foundation**
 
 - Board member (since May 2023)
 - **Tasks:**
     - Organizing training in collaboration with the City and Municipality of Niepołomice and the Better Niepołomice Foundation on Digital Transformation and Digital Competencies in Non-Governmental Organizations
     - Coordinating the foundation's work and fundraising for statutory purposes
 
-## **Federation of Equality Signs**
+### **Federation of Equality Signs**
 
 - Coordinator of the LGBTQIA youth group "MłodzieżEQ" (from July 2019 to September 2020)
 - **Tasks:**
@@ -111,7 +108,7 @@
     - Assisting in organizing the opening of the Krakow Equality Center - DOM EQ
     - Promoting the Krakow Equality Center - DOM EQ at the "ASPIRE Boomtown 2019" conference
 
-## **Jewish Community Center in Krakow**
+### **Jewish Community Center in Krakow**
 
 - Volunteer (from October 2018 to March 2022)
 - **Tasks:**
@@ -150,7 +147,6 @@
 - Knowledge of LDAP solutions: Active Directory, Synology Directory Server.
 - Knowledge of Backup solutions: Synology Active Backup, Bacula backup solutions.
 - Knowledge of VPN solutions: SoftEther, OpenVPN.
-
 - Text and image prompt engineering: GPT 3.5, Gemini 1.5, Llama 3.1, Midjourney 6.1
 - Website design and administration: Wordpress, Prestashop, Drupal.
 - Organize trainings of employees on the introduced IT solutions and cybersecurity in the organization.
@@ -168,7 +164,6 @@
 - Event planning and management.
 - Success project grant writting [PL and EN].
 - Advanced graphic design skills: Illustrator, Figma, Canva, Sketch.
-
 - Knowledge of polish law acts - NGO, Massive events, Trading companies.
 - Knowledge of polish Gen Z trends and memes.
 - Creative approach to action, searching for solutions.
@@ -191,19 +186,16 @@ Business fluent speaker
 # ✒️ References
 
 > *I work great with Artur, he is kind, helpful, supports my employees in our branch and cooperates all the time with the branch in Italy. He can describe solution as easy as can. Great coworker, collegues and business partner.*
-> 
 
 Grzegorz Dubas
 *DAV Tech Poland, MD Polonia*
 
 > *Working with Artur was pure pleasure, thanks to professional services in the field of website design and graphic materials. A huge advantage of Artur is an individual approach, very good communication and punctuality.*
-> 
 
 Dawid Wiktor
 *Media Scope Group*
 
 > *I heartily recommend services from Mr. Artur, he did everything very efficiently and to the point. He is in touch with me all the time and helps me on a regular basis in technical matters.*
-> 
 
 Beata Kolano
 *Hundefrisor Beata Kolano*
@@ -220,7 +212,5 @@ Beata Kolano
 
 ---
 
-<aside>
-ℹ️ I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
 
-</aside>
+*I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).*

@@ -42,7 +42,7 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Artur Sendyka"
+  description: "Artur Sendyka - Personal website | Web Design, Graphic Design, IT Support and Consultation in NGO"
   # author: Artur Sendyka
   # author: ["Me", "You"] # multiple authors
 
@@ -77,6 +77,9 @@ params:
     - name: Telegram
       title: Chat with me on Telegram
       url: "https://t.me/asterixix"
+    - name: ORCID
+      title: Look at my research works
+      url: "https://orcid.org/0000-0002-7501-9756"
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
@@ -90,7 +93,7 @@ params:
 
   assets:
     disableHLJS: true
-       favicon: "files/favicon.ico"
+  #     favicon: "assets/favicon.ico"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"

@@ -18,12 +18,9 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
-&lt;aside&gt;
-👋 Hi there! I am a creative individual, full of passion and committed to my work. I&#39;ve been in the IT industry for 4 years, starting my journey as an IT Support Intern and later working as a Freelance Website Developer. My current skill set is mainly focused on IT Support and Management in small to medium-sized organizations. I have a deep passion for technology, non-governmental organizations, and contemporary art. In my leisure time, I enjoy playing video games, participating in social/probono activities, exploring different cities, running, and practicing yoga.
-&lt;/aside&gt;
-&lt;h3 id=&#34;contact&#34;&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:artur@sendyka.dev&#34;&gt;📧 artur@sendyka.dev&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&amp;amp;v=beta&amp;amp;t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k&#34; alt=&#34;Artur Sendyka image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;👋 &lt;strong&gt;Hi there!&lt;/strong&gt; I am a creative individual, full of passion and committed to my work. I&amp;rsquo;ve been in the IT industry for 4 years, starting my journey as an IT Support Intern and later working as a Freelance Website Developer. My current skill set is mainly focused on IT Support and Management in small to medium-sized organizations. I have a deep passion for technology, non-governmental organizations, and contemporary art. In my leisure time, I enjoy playing video games, participating in social/probono activities, exploring different cities, running, and practicing yoga.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
