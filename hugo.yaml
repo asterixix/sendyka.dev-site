@@ -43,15 +43,15 @@ languages:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Artur Sendyka"
-  author: Artur Sendyka
+  # author: Artur Sendyka
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
-  disableThemeToggle: true
+  disableThemeToggle: false
   ShowShareButtons: false
   ShowReadingTime: false
-  disableSpecial1stPost: true
-  displayFullLangName: true
+  disableSpecial1stPost: false
+  displayFullLangName: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
@@ -61,23 +61,6 @@ params:
   ShowToc: true
   comments: false
   images: ["images/papermod-cover.png"]
-
-  profileMode:
-    enabled: true
-    title: Artur Sendyka
-    imageUrl: "#"
-    imageTitle: Profile image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-          - name: Blog
-            url: posts
-          - name: Resume
-            url: files/ResumeAS2023.pdf
-          - name: Portfolio
-            url: portfolio
-          - name: Contact
-            url: contact
 
 #  homeInfoParams:
 #    Title: "Test"
@@ -107,7 +90,7 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
+       favicon: "files/favicon.png"
   #     favicon16x16: "<link / abs url>"
   #     favicon32x32: "<link / abs url>"
   #     apple_touch_icon: "<link / abs url>"
