@@ -36,7 +36,7 @@ languages:
           - name: About me
             url: about
           - name: Resume
-            url: files/ResumeAS2023.pdf
+            url: files/AS2025.pdf
           - name: Portfolio
             url: portfolio
 
