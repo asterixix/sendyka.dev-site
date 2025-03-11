@@ -24,7 +24,7 @@ languages:
 
     params:
       languageAltTitle: English
-      profileMode:
+      homeInfoParams:
         enabled: true
         title: Artur Sendyka
         imageUrl: "https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&v=beta&t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k"
@@ -48,12 +48,12 @@ params:
 
   defaultTheme: auto
   disableThemeToggle: false
-  ShowShareButtons: false
-  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowReadingTime: true
   disableSpecial1stPost: false
   displayFullLangName: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: false
