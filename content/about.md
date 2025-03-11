@@ -2,7 +2,7 @@
 
 👋 **Hi there!** I am a creative individual, full of passion and committed to my work. I've been in the IT industry for 4 years, starting my journey as an IT Support Intern and later working as a Freelance Website Developer. My current skill set is mainly focused on IT Support and Management in small to medium-sized organizations. I have a deep passion for technology, non-governmental organizations, and contemporary art. In my leisure time, I enjoy playing video games, participating in social/probono activities, exploring different cities, running, and practicing yoga.
 
-### [Resume](/files/ResumeAS2023.pdf)
+### [Resume](files/AS2025.pdf)
 
 ### **Contact**
 
@@ -209,6 +209,8 @@ Beata Kolano
 [Los polacos que mapean las comunidades de odio](https://www.elsaltodiario.com/polonia/polacos-mapean-comunidades-odio)
 
 [Szkolenie na temat bezpłatnych narzędzi informatycznych dla organizacji pozarządowych | Wydarzenia - Niepołomice](https://www.niepolomice.eu/inne/szkolenie-na-temat-bezplatnych-narzedzi-informatycznych-dla-organizacji-pozarzadowych/)
+
+[Jestem GEJEM, mam HIV | Szczerze do bólu #1](https://www.youtube.com/watch?v=K8iRd5Ks7pQ)
 
 ---
 
