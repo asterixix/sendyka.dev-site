@@ -1,8 +1,18 @@
 # Portfolio
 
+## Behance
+
 <iframe src="https://www.behance.net/embed/project/135472957?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 <iframe src="https://www.behance.net/embed/project/135476037?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/194488015?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/194849457?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/198533821?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/220629651?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Web Desing and Development
 
@@ -30,14 +40,6 @@
 ### [Hundefrisor Beata Kolano](https://hundefrisorbeata.com/)
 
 ![Hundefrisor Beata Kolano screenshot](https://sendyka.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fd6df9048-a937-4b4e-8476-3d17b192eaa4%2F555b9c27-b3c3-4483-8e28-208dae8ae99b%2FUntitled.png?table=block&id=d4bf218f-52c3-412b-a94a-b41156f8b124&spaceId=d6df9048-a937-4b4e-8476-3d17b192eaa4&width=870&userId=&cache=v2)
-
-## Graphic Design
-
-### Logotype Collection
-[Link to Behance](https://www.behance.net/gallery/194849457/Logotype-Collection)
-
-### web3.techngo.org NFT Projects
-[Link to Behance](https://www.behance.net/gallery/198533821/web3techngoorg-NFT-Projects)
 
 ## Photography
 
