@@ -1,6 +1,12 @@
 ![Artur Sendyka image](https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&v=beta&t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k)
 
-👋 **Hi there!** I am a creative individual, full of passion and committed to my work. I've been in the IT industry for 4 years, starting my journey as an IT Support Intern and later working as a Freelance Website Developer. My current skill set is mainly focused on IT Support and Management in small to medium-sized organizations. I have a deep passion for technology, non-governmental organizations, and contemporary art. In my leisure time, I enjoy playing video games, participating in social/probono activities, exploring different cities, running, and practicing yoga.
+# 👋 **Hi there!** 
+
+I'm a creative soul 👨‍🎨 driven by passion and an unwavering commitment to my work. My journey in the IT world 💻 began five years ago as an eager *IT Support Intern*, and along the way, I’ve embraced challenges that have led me to thrive as a *Freelance Website Developer* 👨🏼‍💻, *IT Support Manager* or even *Founder* of own Foundation. I blend my technical expertise with a love for contemporary art and a steadfast dedication to non-governmental causes, always seeking ways to connect technology with a greater social purpose. 🤗
+
+Outside the job, I channel my creativity and energy into diverse pursuits — from playing video games 👾 and exploring vibrant cityscapes 🌆 to practicing yoga 🧘🏻, and contributing to meaningful social initiatives. Each day presents a new opportunity to learn 📚, innovate 🧪, and impact lives 💕, and I am excited by the prospect of continually growing both professionally and personally.
+
+I believe that the synergy between artistry 🎨, technology 📱, and community 👥 creates a powerful force for change 💪, and that’s the essence of who I am. I invite you to join me on this journey toward a future where creativity and purpose meet at the intersection of innovation and care. 🫶
 
 ### [Resume](files/AS2025.pdf)
 
@@ -11,6 +17,8 @@
 [📱 +48 500 705 140](tel:+48500705140)
 
 [🔗 linkedin.com/in/asendyka](https://www.linkedin.com/in/asendyka/)
+
+---
 
 # ⌨️ Professional Experience
 
