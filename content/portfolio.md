@@ -19,34 +19,34 @@
 ### [Frajda Krakow](https://frajdakrakow.org)
 > **Important update!** The project is no longer available.
 
-![Frajda Krakow website screenshot](files/portfolio/screen0.webp)
+![Frajda Krakow website screenshot](/portfolio/screen0.webp)
 
 ### [JKA-BUS](https://jkabus.pl)
 
-![JKA-BUS screenshot](files/portfolio/screen1.webp)
+![JKA-BUS screenshot](/portfolio/screen1.webp)
 
 ### [Mechanika Alternatywna](https://mech-alt.com/)
 
-![Mechanika Alternatywna screenshot](files/portfolio/screen2.webp)
+![Mechanika Alternatywna screenshot](/portfolio/screen2.webp)
 
 ### [Szymon Martyniak](https://szymonmartyniak.com/pl_pl/)
 
-![Szymon Martyniak screenshot](files/portfolio/screen3.webp)
+![Szymon Martyniak screenshot](/portfolio/screen3.webp)
 
 ### [Tęczowy Tarnów](https://teczowytarnow.pl)
 
-![Tęczowy Tarnów screenshot](files/portfolio/screen4.webp)
+![Tęczowy Tarnów screenshot](/portfolio/screen4.webp)
 
 ### [Hundefrisor Beata Kolano](https://hundefrisorbeata.com/)
 
-![Hundefrisor Beata Kolano screenshot](files/portfolio/screen5.webp)
+![Hundefrisor Beata Kolano screenshot](/portfolio/screen5.webp)
 
 ## Photography
 
-![Patryk Iwaniec photo](files/portfolio/photo1.webp)
+![Patryk Iwaniec photo](/portfolio/photo1.webp)
 
-![Artur Adamowicz photo](files/portfolio/photo2.webp)
+![Artur Adamowicz photo](/portfolio/photo2.webp)
 
-![Nature photo 1](files/portfolio/photo3.webp)
+![Nature photo 1](/portfolio/photo3.webp)
 
-![Nature photo 2](files/portfolio/photo4.webp)
+![Nature photo 2](/portfolio/photo4.webp)
