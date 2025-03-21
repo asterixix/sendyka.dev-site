@@ -1,4 +1,4 @@
-![Artur Sendyka image](/avatar.jpeg)
+![Artur Sendyka image](avatar.jpeg)
 
 # 👋 **Hi there!**
 
