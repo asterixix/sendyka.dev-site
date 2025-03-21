@@ -1,6 +1,6 @@
 baseURL: "https://sendyka.dev/"
 title: Artur Sendyka
-copyright: "© 2024 [Artur Sendyka](https://sendyka.dev)"
+copyright: "© 2025 [Artur Sendyka](https://sendyka.dev)"
 paginate: 5
 theme: [PaperMod]
 
@@ -12,6 +12,9 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+taxonomies:
+  genre: genres
+  tag: tags
 
 minify:
   disableXML: true
@@ -39,13 +42,15 @@ languages:
             url: files/AS2025.pdf
           - name: Portfolio
             url: portfolio
-          - name: Blog
+          - name: Articles
             url: /posts
+          - name: Certificates
+            url: /certificates
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Artur Sendyka - Personal website | Web Design, Graphic Design, IT Support and Consultation in NGO"
-  # author: Artur Sendyka
+  author: Artur Sendyka
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -64,10 +69,10 @@ params:
   comments: false
   images: ["images/papermod-cover.png"]
 
-#  homeInfoParams:
-#    Title: "Test"
-#    Content: >
-#      👋 This is a test
+  #  homeInfoParams:
+  #    Title: "Test"
+  #    Content: >
+  #      👋 This is a test
 
   socialIcons:
     - name: LinkedIn

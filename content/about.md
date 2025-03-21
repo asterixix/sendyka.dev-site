@@ -1,6 +1,6 @@
-![Artur Sendyka image](https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&v=beta&t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k)
+![Artur Sendyka image](files/avatar.jpeg)
 
-# 👋 **Hi there!** 
+# 👋 **Hi there!**
 
 I'm a creative soul 👨‍🎨 driven by passion and an unwavering commitment to my work. My journey in the IT world 💻 began five years ago as an eager *IT Support Intern*, and along the way, I’ve embraced challenges that have led me to thrive as a *Freelance Website Developer* 👨🏼‍💻, *IT Support Manager* or even *Founder* of own Foundation. I blend my technical expertise with a love for contemporary art and a steadfast dedication to non-governmental causes, always seeking ways to connect technology with a greater social purpose. 🤗
 
