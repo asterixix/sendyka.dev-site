@@ -30,18 +30,18 @@ languages:
       profileMode:
         enabled: true
         title: Artur Sendyka
-        imageUrl: "https://media.licdn.com/dms/image/C4E03AQH3mwq9h9krQg/profile-displayphoto-shrink_200_200/0/1634480045983?e=2147483647&v=beta&t=ztkyk0oZDXt_jd2lRqJU-f5Ze2ddIeYllVI1bnyIF7k"
+        imageUrl: "/static/images/avatar_new.jpg"
         imageTitle: Profile image
         # imageWidth: 120
         # imageHeight: 120
         subtitle: ""
         buttons:
           - name: About me
-            url: about
+            url: /about
           - name: Resume
-            url: files/AS2025.pdf
+            url: /static/files/AS2025.pdf
           - name: Portfolio
-            url: portfolio
+            url: /portfolio
           - name: Articles
             url: /posts
           - name: Certificates
