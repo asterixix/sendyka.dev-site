@@ -8,13 +8,13 @@
 
 ### Patologie kultury internetu - dokąd zmierza społeczność w sieci?
 
-![Patologie kultury internetu - dokąd zmierza społeczność w sieci? Certificate](static/images/certyfikat_homo_sapiens_ASendyka.webp)
+![Patologie kultury internetu - dokąd zmierza społeczność w sieci? Certificate](/static/images/certyfikat_homo_sapiens_ASendyka.webp)
 
 ## Courses
 
 ### AI in Business Development
 
-![AI in Business Development Certificate](static/images/1e47ebb5-f4ac-40be-a9d3-205827714465.webp)
+![AI in Business Development Certificate](/static/images/1e47ebb5-f4ac-40be-a9d3-205827714465.webp)
 
 ### EF SET English Certificate 56/100 (B2 Upper Intermediate)
 
