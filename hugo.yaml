@@ -30,7 +30,7 @@ languages:
       profileMode:
         enabled: true
         title: Artur Sendyka
-        imageUrl: "/static/images/avatar_new.jpg"
+        imageUrl: "/static/images/avatar_new.webp"
         imageTitle: Profile image
         # imageWidth: 120
         # imageHeight: 120

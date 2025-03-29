@@ -4,17 +4,17 @@
 
 ### Etyka i Prawo wykorzystania sztucznej inteligencji w pracy kreatywnej
 
-![Etyka i Prawo wykorzystania sztucznej inteligencji w pracy kreatywnej Certificate](/static/images/certificate0.png)
+![Etyka i Prawo wykorzystania sztucznej inteligencji w pracy kreatywnej Certificate](/static/images/certificate0.webp)
 
 ### Patologie kultury internetu - dokąd zmierza społeczność w sieci?
 
-![Patologie kultury internetu - dokąd zmierza społeczność w sieci? Certificate](static/files/certyfikat_homo_sapiens_ASendyka.pdf)
+![Patologie kultury internetu - dokąd zmierza społeczność w sieci? Certificate](static/images/certyfikat_homo_sapiens_ASendyka.webp)
 
 ## Courses
 
 ### AI in Business Development
 
-![AI in Business Development Certificate](https://cdn.umiejetnoscijutra.pl/certificates/1e47ebb5-f4ac-40be-a9d3-205827714465)
+![AI in Business Development Certificate](static/images/1e47ebb5-f4ac-40be-a9d3-205827714465.webp)
 
 ### EF SET English Certificate 56/100 (B2 Upper Intermediate)
 
@@ -36,6 +36,6 @@
 
 ## Assigned References
 
-![JCC Krakow Reference](/static/images/Referencje_JCCKraków.png)
+![JCC Krakow Reference](/static/images/Referencje_JCCKraków.webp)
 
-![Dean Katarzyna Filutowska Reference](/static/files/A.SENDYKA.pdf)
+![Dean Katarzyna Filutowska Reference](/static/images/A.SENDYKA.webp)
